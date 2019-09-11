@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/jerryPlay/sqlPlay/_apis/build/status/jhoff909.pipelines-java?branchName=master)](https://dev.azure.com/jerryPlay/sqlPlay/_build/latest?definitionId=2&branchName=master)
 
 # Contributing
 
